@@ -1,0 +1,10 @@
+Added Component: Designator=L1(TRANSMITTER_COIL_UCC_ORIGINAL)
+Added Component: Designator=L2(TRANSMITTER_COIL_UCC_ORIGINAL)
+Added Component: Designator=L3(TRANSMITTER_COIL_UCC_ORIGINAL)
+Added Component: Designator=L4(TRANSMITTER_COIL_UCC_ORIGINAL)
+Added Component: Designator=L5(TRANSMITTER_COIL_UCC_ORIGINAL)
+Added Component: Designator=L6(TRANSMITTER_COIL_UCC_ORIGINAL)
+Added Component: Designator=L7(TRANSMITTER_COIL_UCC_ORIGINAL)
+Added Component: Designator=L8(TRANSMITTER_COIL_UCC_ORIGINAL)
+Added Class: Name=Transmitter_PCB
+Added Room: Name=Transmitter_PCB

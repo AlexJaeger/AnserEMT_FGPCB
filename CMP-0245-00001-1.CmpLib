@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<TComponentSet id="0" CurrentRevColumnWidth="100" NameColumnWidth="300" NextRevColumnWidth="100">
+  <LifeCycleDefinitionGUID>36FD2F71-F33E-4628-994A-0C82C0197C5F</LifeCycleDefinitionGUID>
+  <RevisionNamingSchemeGUID>CE4B36C7-F2D7-49B0-AA3A-E3B6D3276818</RevisionNamingSchemeGUID>
+  <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+  <VaultName>Altium Content Vault</VaultName>
+  <RequiredParameters>
+    <TRequiredParameter id="1" ColumnWidth="100">
+      <HRID>Comment</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="2" ColumnWidth="100">
+      <HRID>ComponentLink1Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="3" ColumnWidth="100">
+      <HRID>ComponentLink1URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="4" ColumnWidth="100">
+      <HRID>ComponentLink2Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="5" ColumnWidth="100">
+      <HRID>ComponentLink2URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="6" ColumnWidth="100">
+      <HRID>DatasheetVersion</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="7" ColumnWidth="100">
+      <HRID>Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="8" ColumnWidth="100">
+      <HRID>Emitting Color</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="9" ColumnWidth="100">
+      <HRID>Forward Current</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="10" ColumnWidth="100">
+      <HRID>Mounting Technology</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="11" ColumnWidth="100">
+      <HRID>PackageDescription</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="12" ColumnWidth="100">
+      <HRID>PackageReference</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="13" ColumnWidth="100">
+      <HRID>PackageVersion</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="14" ColumnWidth="100">
+      <HRID>PartNumber</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="15" ColumnWidth="100">
+      <HRID>Power Dissipation</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="16" ColumnWidth="100">
+      <HRID>Reverse Voltage</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="17" ColumnWidth="100">
+      <HRID>Storage Temperature</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+  </RequiredParameters>
+  <RequiredModels>
+    <TRequiredModel id="18" ColumnWidth="100">
+      <HRID>PCBLIB</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="19" ColumnWidth="100">
+      <HRID>SCHLIB</HRID>
+      <Visible>true</Visible>
+      <ModelKind>SCHLIB</ModelKind>
+    </TRequiredModel>
+  </RequiredModels>
+  <ModelLinks>
+    <TModelLink id="20">
+      <HRID>PCC-0039-00003-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>F43DFEA1-493B-40E0-B9C0-B2A34B9DE839</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>227F9FFD-E3D7-4FDF-B6F4-C5A4964547DC</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="21">
+      <HRID>SYM-0032-00003-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>7BC26E24-EA9E-4DC0-8FE8-88EE43A22684</ItemGUID>
+      <ModelKind>SCHLIB</ModelKind>
+      <RevisionGUID>30BD1985-FD7C-4C37-A43D-AF477FB60CB6</RevisionGUID>
+    </TModelLink>
+  </ModelLinks>
+  <PartChoiceListLinks StateIndex="2">
+    <ComponentSet href="#0"/>
+    <ItemNamingScheme>PCL-{00000}</ItemNamingScheme>
+  </PartChoiceListLinks>
+  <TopGroup id="22" StateIndex="2" Collapsed="false">
+    <HRID>Right Angle</HRID>
+    <GUID>828D0670-9A31-4219-AB3B-134960945692</GUID>
+    <Parameters/>
+    <ModelChoices/>
+    <ComponentSet href="#0"/>
+    <ItemNamingScheme>CMP-1226-{00000}</ItemNamingScheme>
+    <Groups>
+      <TGroup id="23" StateIndex="2" Collapsed="false">
+        <ParentGroup href="#22"/>
+        <Parameters/>
+        <ModelChoices/>
+        <ComponentSet href="#0"/>
+        <Groups/>
+        <ComponentDefinitions/>
+        <IsDefaultGroup>false</IsDefaultGroup>
+      </TGroup>
+      <TGroup id="24" StateIndex="2" Collapsed="false">
+        <HRID>Unified Components</HRID>
+        <ParentGroup href="#22"/>
+        <Parameters/>
+        <ModelChoices/>
+        <ComponentSet href="#0"/>
+        <Groups>
+          <TGroup id="25" StateIndex="2" Collapsed="false">
+            <HRID>Components</HRID>
+            <ParentGroup href="#24"/>
+            <Parameters/>
+            <ModelChoices/>
+            <ComponentSet href="#0"/>
+            <Groups>
+              <TGroup id="26" StateIndex="2" Collapsed="false">
+                <HRID>Kingbright</HRID>
+                <ParentGroup href="#25"/>
+                <Parameters/>
+                <ModelChoices/>
+                <ComponentSet href="#0"/>
+                <Groups>
+                  <TGroup id="27" StateIndex="2" Collapsed="false">
+                    <HRID>SMD LED</HRID>
+                    <ParentGroup href="#26"/>
+                    <Parameters/>
+                    <ModelChoices/>
+                    <ComponentSet href="#0"/>
+                    <Groups>
+                      <TGroup id="28" StateIndex="2" Collapsed="false">
+                        <HRID>Right Angle</HRID>
+                        <GUID>828D0670-9A31-4219-AB3B-134960945692</GUID>
+                        <ParentGroup href="#27"/>
+                        <Parameters/>
+                        <ModelChoices/>
+                        <ComponentSet href="#0"/>
+                        <Groups/>
+                        <ComponentDefinitions/>
+                        <Path>Unified Components\Components\Kingbright\SMD LED\Right Angle</Path>
+                        <IsDefaultGroup>true</IsDefaultGroup>
+                      </TGroup>
+                    </Groups>
+                    <ComponentDefinitions/>
+                    <Path>Unified Components\Components\Kingbright\SMD LED</Path>
+                    <IsDefaultGroup>false</IsDefaultGroup>
+                  </TGroup>
+                </Groups>
+                <ComponentDefinitions/>
+                <Path>Unified Components\Components\Kingbright</Path>
+                <IsDefaultGroup>false</IsDefaultGroup>
+              </TGroup>
+            </Groups>
+            <ComponentDefinitions/>
+            <Path>Unified Components\Components</Path>
+            <IsDefaultGroup>false</IsDefaultGroup>
+          </TGroup>
+        </Groups>
+        <ComponentDefinitions/>
+        <Path>Unified Components</Path>
+        <IsDefaultGroup>false</IsDefaultGroup>
+      </TGroup>
+    </Groups>
+    <ComponentDefinitions>
+      <TComponentDefinition StateIndex="0">
+        <HRID>CMP-0245-00001</HRID>
+        <GUID>827BC960-83E4-4696-9D9C-93703C8A030C</GUID>
+        <ParentGroup href="#22"/>
+        <Parameters>
+          <TParameter>
+            <RequiredParameter href="#1"/>
+            <Value>APJA2107EC</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#7"/>
+            <Value>2.1x0.7mm Right Angle SMT LED, 1.3mm Thickness, Red</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#8"/>
+            <Value>Red</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#6"/>
+            <Value>Rev. 8, 06/2011</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#9"/>
+            <Value>30 mA</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#4"/>
+            <Value>Datasheet</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#16"/>
+            <Value>5 V</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#10"/>
+            <Value>Surface Mount</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#5"/>
+            <Value>http://www.kingbrightusa.com/images/catalog/SPEC/APJA2107EC.pdf</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#14"/>
+            <Value>APJA2107EC</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#11"/>
+            <Value>2-Pin Right Angle SMT LED, 2.1x0.7 mm Body, 1.3mm Thickness</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#2"/>
+            <Value>Manufacturer URL</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#17"/>
+            <Value>-40 to 85 degC</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#15"/>
+            <Value>75 mW</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#12"/>
+            <Value>LED2107-13-RED-2</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#3"/>
+            <Value>http://www.kingbrightusa.com/</Value>
+          </TParameter>
+          <TParameter>
+            <RequiredParameter href="#13"/>
+            <Value>Rev. 8, 6/2011</Value>
+          </TParameter>
+        </Parameters>
+        <ModelChoices>
+          <TModelChoice>
+            <RequiredModel href="#19"/>
+            <ModelLink href="#21"/>
+          </TModelChoice>
+          <TModelChoice>
+            <RequiredModel href="#18"/>
+            <ModelLink href="#20"/>
+          </TModelChoice>
+        </ModelChoices>
+        <ItemHRID>CMP-0245-00001</ItemHRID>
+        <RevisionGUID>B4D9DB1E-D0C6-48F6-996E-7213AF902839</RevisionGUID>
+        <RevisionId>1</RevisionId>
+      </TComponentDefinition>
+    </ComponentDefinitions>
+    <Path>Unified Components\Components\Kingbright\SMD LED\Right Angle</Path>
+    <IsDefaultGroup>false</IsDefaultGroup>
+  </TopGroup>
+  <ShowReleaseState>false</ShowReleaseState>
+</TComponentSet>

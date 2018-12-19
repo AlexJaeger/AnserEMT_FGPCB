@@ -1,0 +1,51 @@
+Added Component: Designator=P1(Connector_3M_26Pos)
+Added Pin To Net: NetName=CHANNEL_1_+ Pin=L1-2
+Added Pin To Net: NetName=CHANNEL_1_+ Pin=P1-13
+Added Net: Name=CHANNEL_1_+
+Added Pin To Net: NetName=CHANNEL_1_- Pin=L1-1
+Added Pin To Net: NetName=CHANNEL_1_- Pin=P1-26
+Added Net: Name=CHANNEL_1_-
+Added Pin To Net: NetName=CHANNEL_2_+ Pin=L2-2
+Added Pin To Net: NetName=CHANNEL_2_+ Pin=P1-24
+Added Net: Name=CHANNEL_2_+
+Added Pin To Net: NetName=CHANNEL_2_- Pin=L2-1
+Added Pin To Net: NetName=CHANNEL_2_- Pin=P1-12
+Added Net: Name=CHANNEL_2_-
+Added Pin To Net: NetName=CHANNEL_3_+ Pin=L3-2
+Added Pin To Net: NetName=CHANNEL_3_+ Pin=P1-10
+Added Net: Name=CHANNEL_3_+
+Added Pin To Net: NetName=CHANNEL_3_- Pin=L3-1
+Added Pin To Net: NetName=CHANNEL_3_- Pin=P1-23
+Added Net: Name=CHANNEL_3_-
+Added Pin To Net: NetName=CHANNEL_4_+ Pin=L4-2
+Added Pin To Net: NetName=CHANNEL_4_+ Pin=P1-21
+Added Net: Name=CHANNEL_4_+
+Added Pin To Net: NetName=CHANNEL_4_- Pin=L4-1
+Added Pin To Net: NetName=CHANNEL_4_- Pin=P1-9
+Added Net: Name=CHANNEL_4_-
+Added Pin To Net: NetName=CHANNEL_5_+ Pin=L5-2
+Added Pin To Net: NetName=CHANNEL_5_+ Pin=P1-18
+Added Net: Name=CHANNEL_5_+
+Added Pin To Net: NetName=CHANNEL_5_- Pin=L5-1
+Added Pin To Net: NetName=CHANNEL_5_- Pin=P1-6
+Added Net: Name=CHANNEL_5_-
+Added Pin To Net: NetName=CHANNEL_6_+ Pin=L6-2
+Added Pin To Net: NetName=CHANNEL_6_+ Pin=P1-4
+Added Net: Name=CHANNEL_6_+
+Added Pin To Net: NetName=CHANNEL_6_- Pin=L6-1
+Added Pin To Net: NetName=CHANNEL_6_- Pin=P1-17
+Added Net: Name=CHANNEL_6_-
+Added Pin To Net: NetName=CHANNEL_7_+ Pin=L7-2
+Added Pin To Net: NetName=CHANNEL_7_+ Pin=P1-15
+Added Net: Name=CHANNEL_7_+
+Added Pin To Net: NetName=CHANNEL_7_- Pin=L7-1
+Added Pin To Net: NetName=CHANNEL_7_- Pin=P1-3
+Added Net: Name=CHANNEL_7_-
+Added Pin To Net: NetName=CHANNEL_8_+ Pin=L8-2
+Added Pin To Net: NetName=CHANNEL_8_+ Pin=P1-1
+Added Net: Name=CHANNEL_8_+
+Added Pin To Net: NetName=CHANNEL_8_- Pin=L8-1
+Added Pin To Net: NetName=CHANNEL_8_- Pin=P1-14
+Added Net: Name=CHANNEL_8_-
+Added Member To Class: ClassName=Transmitter_PCB Member=Component P1 Connector3M_26Pos
+Added Room: Name=Transmitter_PCB

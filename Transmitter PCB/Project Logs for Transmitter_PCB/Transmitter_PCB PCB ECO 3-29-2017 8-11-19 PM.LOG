@@ -1,0 +1,16 @@
+Added Component: Designator=D1(KING-LED2107-13-RED-2_V)
+Added Component: Designator=D2(KING-LED2107-13-RED-2_V)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-27
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_ACTIVE Pin=D2-2
+Added Pin To Net: NetName=LED_ACTIVE Pin=P1-7
+Added Net: Name=LED_ACTIVE
+Added Pin To Net: NetName=LED_INACTIVE Pin=D1-2
+Added Pin To Net: NetName=LED_INACTIVE Pin=P1-20
+Added Net: Name=LED_INACTIVE
+Added Member To Class: ClassName=Transmitter_PCB Member=Component D1 KPA-3010SECK-J3
+Added Member To Class: ClassName=Transmitter_PCB Member=Component D2 KPA-3010ZGCK
+Added Room: Name=Transmitter_PCB
